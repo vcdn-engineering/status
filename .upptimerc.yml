@@ -4,7 +4,7 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: vcdn.it
+  - name: Dashboard
     url: https://vcdn.it
   - name: Proxies
     url: https://example.vcdn.it
