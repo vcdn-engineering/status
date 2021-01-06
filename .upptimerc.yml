@@ -6,7 +6,9 @@ repo: status # Your GitHub repository name
 sites:
   - name: vcdn.it
     url: https://vcdn.it
-
+  - name: example.vcdn.it
+    url: https://example.vcdn.it
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.vcdn.it
