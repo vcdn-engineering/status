@@ -16,7 +16,7 @@ status-website:
   cname: status.vcdn.it
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://vcdn.it/img/icon-server.png
   name: Upptime
   introTitle: "vCDN"
   introMessage: Services status
