@@ -22,35 +22,39 @@
     "url": "https://example.vcdn.it",
     "icon": "https://favicons.githubusercontent.com/example.vcdn.it",
     "slug": "proxies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 595,
-    "timeWeek": 648,
-    "timeMonth": 711,
-    "timeYear": 711,
-    "dailyMinutesDown": {}
+    "time": 700,
+    "timeDay": 545,
+    "timeWeek": 629,
+    "timeMonth": 700,
+    "timeYear": 700,
+    "dailyMinutesDown": {
+      "2021-01-22": 0
+    }
   },
   {
     "name": "Storage",
     "url": "https://bucket-test.vcdn.it/bucket_ready.html",
     "icon": "https://favicons.githubusercontent.com/bucket-test.vcdn.it",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 489,
-    "timeWeek": 530,
-    "timeMonth": 611,
-    "timeYear": 611,
-    "dailyMinutesDown": {}
+    "time": 603,
+    "timeDay": 475,
+    "timeWeek": 522,
+    "timeMonth": 603,
+    "timeYear": 603,
+    "dailyMinutesDown": {
+      "2021-01-22": 0
+    }
   }
 ]
